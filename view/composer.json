@@ -1,0 +1,24 @@
+{
+  "name": "idmc",
+  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 3",
+  "homepage": "http://www.muniferrenafe.gob.pe/index.php/contacto.html",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "web"
+  ],
+  "authors": [
+    {
+      "name": "Irwin Morales Cabrera",
+      "email": "id.morales10n@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": ""
+  }
+}
